@@ -9,4 +9,6 @@ two（Hello Netty的原型图解）：https://blog.csdn.net/linuu/article/detail
 
 three（SimpleChannelInboundHandler的坑）：https://blog.csdn.net/linuu/article/details/51307060
 
-four(ChannelHandler,ChannelHandlerContext,ChannelPipeline)：https://blog.csdn.net/linuu/article/details/51315373
+four（ChannelHandler,ChannelHandlerContext,ChannelPipeline）：https://blog.csdn.net/linuu/article/details/51315373
+
+five（初识ByteBuf和ByteBuf的常用API）：https://blog.csdn.net/linuu/article/details/51322224
