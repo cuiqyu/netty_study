@@ -12,3 +12,5 @@ three（SimpleChannelInboundHandler的坑）：https://blog.csdn.net/linuu/artic
 four（ChannelHandler,ChannelHandlerContext,ChannelPipeline）：https://blog.csdn.net/linuu/article/details/51315373
 
 five（初识ByteBuf和ByteBuf的常用API）：https://blog.csdn.net/linuu/article/details/51322224
+
+six（TCP粘包拆包场景）：https://blog.csdn.net/linuu/article/details/51337748
