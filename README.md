@@ -1,2 +1,8 @@
 # netty_study
-netty study demo
+netty 学习项目
+
+> **学习资料** 参考csdn的大神文章一步步学习，例子几乎一样，只是对着看过后自己写了下；
+
+one：https://blog.csdn.net/u010154380/article/details/78158314
+
+two：https://blog.csdn.net/linuu/article/details/51306999
