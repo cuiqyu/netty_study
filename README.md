@@ -8,3 +8,5 @@ one（Hello Netty）：https://blog.csdn.net/u010154380/article/details/78158314
 two（Hello Netty的原型图解）：https://blog.csdn.net/linuu/article/details/51306999
 
 three（SimpleChannelInboundHandler的坑）：https://blog.csdn.net/linuu/article/details/51307060
+
+four(ChannelHandler,ChannelHandlerContext,ChannelPipeline)：https://blog.csdn.net/linuu/article/details/51315373
