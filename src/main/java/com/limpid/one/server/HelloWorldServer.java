@@ -8,17 +8,15 @@ import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
-import io.netty.handler.codec.DelimiterBasedFrameDecoder;
-import io.netty.handler.codec.Delimiters;
 import io.netty.handler.codec.string.StringDecoder;
 import io.netty.handler.codec.string.StringEncoder;
 
-import java.net.InetAddress;
 import java.net.InetSocketAddress;
 
 /**
  * @auther cuiqiongyu
  * @create 2018/8/1 15:41
+ * 地址：https://blog.csdn.net/u010154380/article/details/78158314
  */
 public class HelloWorldServer {
 
