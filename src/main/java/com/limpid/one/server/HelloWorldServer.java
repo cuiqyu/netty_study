@@ -16,7 +16,6 @@ import java.net.InetSocketAddress;
 /**
  * @auther cuiqiongyu
  * @create 2018/8/1 15:41
- * 地址：https://blog.csdn.net/u010154380/article/details/78158314
  */
 public class HelloWorldServer {
 
