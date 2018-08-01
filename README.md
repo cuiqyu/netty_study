@@ -14,3 +14,5 @@ four（ChannelHandler,ChannelHandlerContext,ChannelPipeline）：https://blog.cs
 five（初识ByteBuf和ByteBuf的常用API）：https://blog.csdn.net/linuu/article/details/51322224
 
 six（TCP粘包拆包场景）：https://blog.csdn.net/linuu/article/details/51337748
+
+seven（TCP粘包拆包基本解决方案）：https://blog.csdn.net/linuu/article/details/51338538
